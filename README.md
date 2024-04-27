@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on [Data science](https://github.com/omrautxo/Ai-ds-om)
-- 👨‍💻 All of my projects are available at [https://github.com/Tanmaypatil8](https://github.com/omrautxo/Ai-ds-om)
+- 👨‍💻 All of my projects are available at [https://github.com/Tanmaypatil8](https://github.com/omrautxo)
 
 - 📫 How to reach me **oraut7841@gmail.com**
 
