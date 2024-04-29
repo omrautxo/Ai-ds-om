@@ -1,5 +1,5 @@
 
-## # Black Friday sales
+ ## Black Friday sales
 
 The objective of this project is to develop a robust predictive model using a Black Friday sales dataset. This entails implementing comprehensive preprocessing techniques, including addressing missing values, employing label and one-hot encoding methods, transforming categorical variables into numerical representations, and ensuring appropriate feature scaling. The ultimate goal is to create a high-performing model capable of accurately forecasting Black Friday sales trends
 ##  About Project
